@@ -13,10 +13,10 @@ export const projects = {
   desc: "Aqui está tudo que ja trabalhei ou que venho trabalhando nos últimos tempos.",
   projects: [
     {
-      title: 'Em breve!',
-      description: 'Ainda estou desenvolvendo esta sessão',
-      link: '',
-      github: ''
+      title: 'Carrinho de compras - Codeby',
+      description: 'Exemplo de carrinho de compras utilizando ReactJS e NextJS.',
+      link: 'https://cart-codeby.vercel.app',
+      github: 'mrtnsandre/cart-codeby'
     },
     {
       title: 'Em breve!',
